@@ -280,7 +280,7 @@ await Promise.all([
 ## Contributing
 
 Found a bug or have a feature idea? Open an issue or PR at:
-https://github.com/your-username/fertility-tracker
+https://github.com/mayi12345/fertility-tracker
 
 ## License
 
@@ -294,9 +294,8 @@ MIT License - see LICENSE file for details.
 
 ## Support
 
-- GitHub Issues: https://github.com/your-username/fertility-tracker/issues
-- Discord: https://discord.com/invite/clawd
-- Email: support@your-domain.com
+- GitHub Issues: https://github.com/mayi12345/fertility-tracker/issues
+- Discord: https://discord.com/invite/clawd (OpenClaw community)
 
 ---
 

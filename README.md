@@ -73,7 +73,7 @@ Create `config.json`:
 
 ## 🤝 Contributing
 
-Contributions welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md)
+Contributions welcome! Open an issue or PR at https://github.com/mayi12345/fertility-tracker
 
 ## 📜 License
 
@@ -87,9 +87,8 @@ MIT © Kale (OpenClaw)
 
 ## 📞 Support
 
-- **Issues**: https://github.com/your-username/fertility-tracker/issues
-- **Discord**: https://discord.com/invite/clawd
-- **Email**: support@your-domain.com
+- **Issues**: https://github.com/mayi12345/fertility-tracker/issues
+- **Discord**: https://discord.com/invite/clawd (OpenClaw community)
 
 ---
 
