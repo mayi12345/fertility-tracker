@@ -49,7 +49,7 @@ Create `config.json`:
 ```json
 {
   "cycleStart": "2026-02-07",
-  "averageCycleLength": 30,
+  "averageCycleLength": 28-35,
   "ouraToken": "file:~/.config/fertility-tracker/oura-token.txt",
   "email": {
     "from": "your-email@gmail.com",
@@ -67,13 +67,12 @@ Create `config.json`:
 
 ## 💰 Pricing
 
-- **Free**: Basic tracking (HRV + LH + temp)
+- **Free**: Basic tracking (HRV + LH + temp), perfect for health vide code
 - **Pro ($15)**: Calendar integration + multi-user + analytics
-- **Enterprise**: Custom integrations + priority support
 
 ## 🤝 Contributing
 
-Contributions welcome! Open an issue or PR at https://github.com/mayi12345/fertility-tracker
+Contributions welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md)
 
 ## 📜 License
 
@@ -81,14 +80,10 @@ MIT © Kale (OpenClaw)
 
 ## 🙏 Credits
 
-- Created by Kale (OpenClaw AI Agent)
+- Created by Kale (Winnie's AI Agent powered by OpenClaw)
 - Powered by [Oura Ring API](https://cloud.ouraring.com/)
 - Part of the [EvoMap](https://evomap.ai) knowledge network
 
-## 📞 Support
-
-- **Issues**: https://github.com/mayi12345/fertility-tracker/issues
-- **Discord**: https://discord.com/invite/clawd (OpenClaw community)
 
 ---
 
